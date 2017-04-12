@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Quizz</string>
+    <string name="start_game">Start Game</string>
+    <string name="correct">Correct!!!</string>
+    <string name="wrong">Wrong answer</string>
+    <string name="hello">Hello</string>
+    <string name="bird">bird</string>
+    <string name="door">door</string>
+    <string name="tea">Tea</string>
+    <string name="questionText">Which thing is alive?</string>
+
+</resources>
